@@ -45,7 +45,7 @@ return (
       </div>
       <div className='service_code'>
         <p>
-            Service Code
+        ServiceCode
         </p>
       </div>
       <div className='copy-Write'>
